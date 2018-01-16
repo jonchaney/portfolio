@@ -28673,7 +28673,7 @@ var DefaultComponent = function (_React$Component) {
         _react2.default.createElement(
           'h1',
           null,
-          'React/Redux Boiler Plate'
+          'Jonathan Chaney'
         )
       );
     }
